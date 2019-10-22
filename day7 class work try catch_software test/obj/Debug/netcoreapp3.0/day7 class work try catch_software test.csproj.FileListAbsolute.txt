@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\bin\Debug\netcoreapp3.0\day7 class work try catch_software test.exe
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\bin\Debug\netcoreapp3.0\day7 class work try catch_software test.deps.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\bin\Debug\netcoreapp3.0\day7 class work try catch_software test.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\bin\Debug\netcoreapp3.0\day7 class work try catch_software test.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\bin\Debug\netcoreapp3.0\day7 class work try catch_software test.dll
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\bin\Debug\netcoreapp3.0\day7 class work try catch_software test.pdb
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\obj\Debug\netcoreapp3.0\day7 class work try catch_software test.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\obj\Debug\netcoreapp3.0\day7 class work try catch_software test.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\obj\Debug\netcoreapp3.0\day7 class work try catch_software test.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\obj\Debug\netcoreapp3.0\day7 class work try catch_software test.dll
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\day7 class work try catch_software test\obj\Debug\netcoreapp3.0\day7 class work try catch_software test.pdb

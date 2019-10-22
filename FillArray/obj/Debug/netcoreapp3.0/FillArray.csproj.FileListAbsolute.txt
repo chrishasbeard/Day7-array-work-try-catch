@@ -1,0 +1,10 @@
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\FillArray\bin\Debug\netcoreapp3.0\FillArray.exe
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\FillArray\bin\Debug\netcoreapp3.0\FillArray.deps.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\FillArray\bin\Debug\netcoreapp3.0\FillArray.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\FillArray\bin\Debug\netcoreapp3.0\FillArray.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\FillArray\bin\Debug\netcoreapp3.0\FillArray.dll
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\FillArray\bin\Debug\netcoreapp3.0\FillArray.pdb
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\FillArray\obj\Debug\netcoreapp3.0\FillArray.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\FillArray\obj\Debug\netcoreapp3.0\FillArray.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\FillArray\obj\Debug\netcoreapp3.0\FillArray.dll
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\FillArray\obj\Debug\netcoreapp3.0\FillArray.pdb

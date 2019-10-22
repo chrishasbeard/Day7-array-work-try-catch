@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\bin\Debug\netcoreapp3.0\ArrayMethods.exe
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\bin\Debug\netcoreapp3.0\ArrayMethods.deps.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\bin\Debug\netcoreapp3.0\ArrayMethods.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\bin\Debug\netcoreapp3.0\ArrayMethods.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\bin\Debug\netcoreapp3.0\ArrayMethods.dll
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\bin\Debug\netcoreapp3.0\ArrayMethods.pdb
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\obj\Debug\netcoreapp3.0\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\obj\Debug\netcoreapp3.0\ArrayMethods.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\obj\Debug\netcoreapp3.0\ArrayMethods.dll
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\obj\Debug\netcoreapp3.0\ArrayMethods.pdb
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ArrayMethods\obj\Debug\netcoreapp3.0\ArrayMethods.csprojAssemblyReference.cache

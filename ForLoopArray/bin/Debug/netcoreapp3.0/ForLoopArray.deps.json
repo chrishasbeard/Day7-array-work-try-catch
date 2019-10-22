@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ForLoopArray/1.0.0": {
+        "runtime": {
+          "ForLoopArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForLoopArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

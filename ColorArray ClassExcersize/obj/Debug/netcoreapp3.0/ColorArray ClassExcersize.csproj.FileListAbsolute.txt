@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\bin\Debug\netcoreapp3.0\ColorArray ClassExcersize.exe
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\bin\Debug\netcoreapp3.0\ColorArray ClassExcersize.deps.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\bin\Debug\netcoreapp3.0\ColorArray ClassExcersize.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\bin\Debug\netcoreapp3.0\ColorArray ClassExcersize.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\bin\Debug\netcoreapp3.0\ColorArray ClassExcersize.dll
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\bin\Debug\netcoreapp3.0\ColorArray ClassExcersize.pdb
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\obj\Debug\netcoreapp3.0\ColorArray ClassExcersize.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\obj\Debug\netcoreapp3.0\ColorArray ClassExcersize.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\obj\Debug\netcoreapp3.0\ColorArray ClassExcersize.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\obj\Debug\netcoreapp3.0\ColorArray ClassExcersize.dll
+C:\Users\Holmes HQ\source\repos\day7 class work try catch_software test\ColorArray ClassExcersize\obj\Debug\netcoreapp3.0\ColorArray ClassExcersize.pdb
